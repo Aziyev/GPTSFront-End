@@ -1,0 +1,12 @@
+git clone - reponu yuklemek ucun
+
+
+git add .  - elave etmek ucun
+git status - yoxlamaq ucun
+git commit -m "(commit beli)" - proyektin her uplouduna ad vermek ucun
+git push - repoya gondermek ucun
+
+
+git config --global user.name (myusername)
+git config --global user.email (myemail)
+git config --global user.password (password)
