@@ -1,0 +1,40 @@
+Forms -label -input
+Attributes
+Select Option OptGroup
+List 
+Textarea
+Table
+CSS Types
+
+saytlar: 
+uipalet
+colorgradients
+
+border: 1px solid ;
+text-align:center;
+color
+b-color
+text-decoration
+border
+text-shadow
+box-shadow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

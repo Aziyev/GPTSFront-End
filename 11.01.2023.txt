@@ -1,0 +1,48 @@
+margin
+padding
+
+outline
+:focus
+
+inline, css ,external css
+div
+selectors
+id class
+:pseudo element
+:nth-child  1,even,odd
+first, last
+parent
+simbling
+child
+::first-letter
+
+
+
+
+
+hover
+transition
+cursor
+filter
+before-after
+https://gentium.pixerex.com/
+selection
+user-select
+scrollbar
+background-image:linear-gradient
+
+
+ip adress , cmd , ipconfif IPv4
+
+
+
+parallax
+background-image:url();
+background-repeat:
+background-position: center , %
+background-size:cover;
+
+l.
+background-attachment:fixed;
+themeforest
+flex-direction: column:
