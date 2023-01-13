@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+/* a{
+    text-decoration: none;
+}
+
+.box1{
+    background-color: red;
+    text-align: center;
+    width: 600px;
+    margin: 50px;
+    padding: 40px 30px;
+    border: 10px solid black;
+}
+h1{
+    background-color: aqua;
+}
+.box2{
+    width: 600px;
+    height: 100px;
+    background-color: yellow;
+    margin: 50px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid red;
+    padding: 10px 5px;
+} */
+/* input:focus{
+    color: red;
+    border: 1px solid black !important;
+    
+}
+ */
+
+
+/*  img{
+    float: left;
+ }
+ */
+/*  header{
+    background-color: gray;
+    padding: 30px 0px;
+ }
+ .header-all{
+    margin: 0px 100px;
+ }
+ .left {
+    float: left;
+ }
+ .right{
+    text-align: end;
+    
+ }
+ .right a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    transition: 1s;
+ }
+ .right a:hover{
+    text-decoration: none;
+    color: gray;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+ }
+
+
+
+.products{
+    margin: 200px 0px;
+}
+
+.products p{
+    text-align: center  ;
+    font-size: 30px;
+}
+
+.products-all{
+    width: 100%;
+    margin-top: 50px;
+}
+.box{
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    margin: 0px 12px;
+}
+.box img{
+    width: 100%;
+    filter: blur(5px);
+    transition: .5s;
+}
+.box-info{
+    padding:10px 10px ;
+}
+.box p{
+    
+    font-size: 12px;
+    text-align: left;
+    margin-bottom: 20px;
+    
+}
+span{
+    font-weight: bolder;
+}
+.box img:hover{
+    cursor: pointer;
+    filter: blur(0px);
+} */
+
+/* .text{
+    width: 500px;
+    height: 400px;
+    background-color: red;
+    overflow: hidden;
+}
+ */
+.all-boxs{
+    width: 80%;
+    margin: auto;
+}
+
+.all-text{
+    text-align: center;
+}
+.box{
+    margin: 0px 20px;
+    width: 45%;
+    float: left;
+    transition: 1s;
+    
+}
+.box img{
+    transition: 1s;
+    width: 100%;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+.box:hover img{
+    
+    transform: rotate(360deg) scale(0.5);
+}

@@ -1,0 +1,21 @@
+margin
+padding
+border
+box model
+box sizing border box
+focus
+
+reset css
+overflow-x-y hidden scroll 
+opacity
+float left width calc
+vertical align bottom
+filter:opacity
+clip-path
+transfomr scale
+transform rotate
+container
+
+
+
+position fixed
