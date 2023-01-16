@@ -1,0 +1,43 @@
+@font-face {
+    font-family: GPTS;
+    src: url(../fonts/Algerian.otf);
+}
+
+.icons{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    
+}
+
+i{
+    background: #00d2ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #928DAB, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #928DAB, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 10px;
+    border-radius: 50%;
+    margin: 0px 20px;
+    transition: 0.4s;
+    
+}
+i:hover{
+    transform: scale(1.5) rotate(360deg);
+    cursor: pointer;
+}
+
+.text{
+    border: 1px solid black;
+    width: 100% ;
+    margin: auto;
+   /*  text-align: justify; */
+   /*  text-align-last: center;
+    word-spacing: 10px;
+    text-transform: uppercase; */
+    text-indent: 100px;
+    line-height: 100px;
+    text-shadow: 10px 10px 10px red;
+    font-weight: 900;
+}
+p{
+    font-family: GPTS;
+}
