@@ -1,0 +1,35 @@
+icon  rotate
+fontawsome
+flaticon.com
+svg png
+icomon.com
+pexels.com
+pixabay.com
+
+text-align: left, right, justify, center
+text-align-last 
+word-spacingpx
+text-decoration, style , color
+text-transform upper lower
+text-indent px
+line-height
+letter-spacing
+vertical-align
+
+clear-clear both
+
+
+
+google fonts
+azfont
+@font-face
+https://sb-ui-kit-pro.startbootstrap.com/landing-directory.html
+transform translate xyz
+
+
+
+
+
+line-break
+direction
+text-shadow
