@@ -1,0 +1,164 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+/* body{
+    scroll-behavior: smooth;
+} */
+/* .all{
+    width: 100%;
+    display: flex;
+    justify-content:space-between ;
+    flex-wrap: wrap;
+    /* width<100%; */
+    /* center,space-between,space-evenly */
+
+
+
+/* 
+.box{
+    margin-bottom: 10px;
+    width: 33%;
+    height: 100px;
+    background-color: red;
+    
+} */ 
+
+
+/* .all{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.bold{
+    font-size: 50px;
+}
+
+ul{
+    
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+li{
+    margin: 0px 15px 0px  ;
+} */
+
+
+
+/* .X{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    position: relative;
+    margin: 20px;
+}
+.Y{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    right: -200px;
+    top: 25%;
+    clip-path: polygon(100% 34%, 0 21%, 0 65%);
+ 
+
+
+}
+
+ .fixedicon {
+    padding: 10px;
+    background-color:green;
+    color: white;
+    position: sticky;
+    left: 50px;
+    top: 0px;
+}  */
+
+
+
+/* .all-top{
+    text-align: center;
+}
+.all-bottom{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box{
+    width: 50%;
+}
+img{
+    width: 100%;
+}
+
+.box{
+    position: relative;
+}
+.box-text{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: aliceblue;
+}
+.overlay{
+    
+    width: 0%;
+    height: 100%;
+    background-color: red;
+    transition: 1s;
+}
+.box:hover .overlay{
+    width: 100%;
+
+}
+ */
+
+
+ .animation{
+    width: 500px;
+    height: 500px;
+
+   
+    border: 2px solid black;
+    margin: 0px auto;
+    text-align: center;
+    position: relative;
+
+ }
+ .overlay{
+    width: 0%;
+    height: 100%;
+    position: absolute;
+    background-color: red;
+   z-index: -5;
+   transition: 1s;
+ }
+ a{
+    transition: 1s;
+    font-size: 30px;
+    z-index: 10;
+ }
+
+ .animation:hover .overlay{
+    width: 100%;
+    border-radius: 50%;
+ }
+ .animation:hover a{
+    color: white;
+    font-size: 50px;
+ }
+
+

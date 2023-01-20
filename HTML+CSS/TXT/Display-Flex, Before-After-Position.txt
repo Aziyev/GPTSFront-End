@@ -1,0 +1,39 @@
+container
+display flex
+justify-content (width<100%)
+flex-wrap
+header-ul-li>a
+
+http://imroz.rainbowit.net/creative-landing
+
+-webkit-text-fill-color: transparent;
+-webkit-background-clip:text;
+
+
+
+position: static (default)
+position: fixed
+left
+right
+top
+bottom
+scroll-behavior
+position: sticky
+position:relative
+position:absolute
+transform:translateX,Y,Z(%)
+overlay
+opacity
+
+
+
+before-after
+content: '';
+position:absolute;
+width 
+height
+
+
+z-index
+
+
