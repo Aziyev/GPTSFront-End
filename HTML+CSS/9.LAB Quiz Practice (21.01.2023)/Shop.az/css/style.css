@@ -1,0 +1,255 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: 0 auto  ;
+}
+
+.header-top{
+    padding: 10px 0px;
+    
+}
+
+.header-all .header-top{
+    display: flex;
+    justify-content: space-between;
+}
+.header-top ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.header-top li{
+    margin-left: 20px;
+    
+}
+
+.header-top li a{
+    text-decoration: none;
+    color: gray;
+    transition: 0.4s;
+}
+.header-top li a:hover{
+    padding: 5px;
+    color: white;
+    background-color: black;
+}
+.all{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-bottom{
+    background-color: #FF0033;
+    
+}
+
+.all .logo{
+    width: 15%;
+}
+.all .search{
+    width: 50%;
+   
+}
+.all .search form{
+    display: flex;
+   
+}
+
+.all .search form .left{
+    width: 80%;
+
+}
+.all .search form .left input{
+    width: 100%;
+    padding: 10px 0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+form .right span{
+    
+    width: 100%;
+    margin-top:10px ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+.all .search form .right{
+    background-color: gray;
+    padding-top:10px ;
+    text-align: center;
+    width: 20%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.all .search form .right a{
+    text-decoration: none;
+    color: bisque;
+}
+
+.all .menu{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.all .menu a{
+    text-decoration: none;
+    padding: 10px 20px ;
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    transition: 1s;
+}
+.all .menu a:hover{
+    text-decoration: none;
+    padding: 10px 20px ;
+    color: #FF0033;
+    font-weight: 700;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+
+
+
+/* MAIN HISSE */
+
+#Section1 .products{
+    display: flex;
+    justify-content: space-around;
+ padding: 20px 0px;
+
+}
+
+#Section1 .product{
+    padding: 30px 30px;
+    
+    border-radius: 20px;
+    text-align: center;
+    width: calc(100%/6);
+    transition: 2s;
+}
+#Section1 .product:hover{
+    border:1px solid gray;
+}
+
+#Section1 img{
+
+   border-radius: 50%;
+
+}
+
+
+
+
+.products{
+    position: relative;
+}
+.arrow-left{
+    padding: 15px 20px;
+    background-color: gray;
+    border: 1px solid gray;
+    border-radius: 50%;
+    position: absolute;
+    left: 4%;
+    top: 40%;
+}
+.arrow-right{
+    background-color: gray;
+
+    position: absolute;
+    right: 4%;
+    top: 40%;
+    padding: 15px 20px;
+    border: 1px solid gray;
+    border-radius: 50%;
+
+}
+#Section2 {
+    padding: 50px 0px;
+    background-color: #F4F4F4;
+}
+#Section2 img{
+    width: 100%;
+    border-radius: 30px;
+}
+.comment-btn{
+    position: fixed;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #FF0033;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+}
+#Section3 .Brands{
+    display: flex;
+    justify-content: space-between;
+}
+#Section3 .Brand{
+   padding: 20px;
+   text-align: center;
+}
+
+.bg-img{
+    background-color: gray;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.bg-img img{
+    
+padding: 10px 15px;
+}
+
+#Section3{
+    padding: 50px 0px;
+    
+}
+.discount-text{
+    padding: 20px 0px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+#Section4{
+    background-color: #F4F4F4;
+    margin-bottom: 500px;
+}
+#Section4 .products{
+    display: flex;
+    justify-content: space-between;
+}
+#Section4 .product{
+    padding-bottom: 30px;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    width: 16%;
+    transition: 2s;
+
+}
+#Section4 .product .top-text{ 
+    padding: 10px 0px;
+    background-color: #FF0033;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: white;
+    margin-bottom: 30px;
+
+}
+
+#Section4 .product img{
+    margin-bottom: 20px;
+
+}
+#Section4 .product:hover{
+    border:1px solid gray;
+}
