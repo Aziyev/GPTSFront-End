@@ -1,0 +1,32 @@
+.common-btn{
+    padding: 20px;
+    background-color: gray;
+    color: green;
+    transition: 1s;
+    &:hover{
+        background-color: green;
+        color: gray;
+    }
+}
+
+.box{
+    width: 500px;
+    height: 200px;
+    
+    p{
+        padding: 20px;
+    }
+    .paragraph1{
+        color: blue;
+    }
+    .paragraph2{
+        
+        a{
+            @extend .common-btn
+        }
+        
+    }
+    .paragraph3{
+        color: aqua;
+    }
+}

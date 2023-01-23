@@ -1,0 +1,49 @@
+transform rotatex,y,z
+
+animation: name time infinite . alternate
+@keyframes name{
+20% {  }
+from { }
+to { }
+{
+timing-function
+linear
+
+media query
+@media
+-------
+dropdown relative absolute opacity visibility hidden visible
+
+scss 
+& 
+$ 
+@extend 
+@import''; 
+@mixin name($name1,$name2){} 
+@include(nameprop1, nameprop2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://fiorello.qodeinteractive.com/
+https://themepanthers.com/wp/nest/d1/
+https://klbtheme.com/bacola/home-3/
